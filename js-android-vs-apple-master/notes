@@ -1,0 +1,5 @@
+    document.getElementById('img1').src = 'images/Andriod-Logo.jpg';
+    document.getElementById('siteLink').innerHTML = 'Andriod Home';
+    document.getElementById('siteLink').style.backgroundColor = '#a4c93b';
+    document.getElementById('siteLink').href = 'https://www.android.com/';
+    document.querySelector('theBody').style.backgroundColor = '#a4c93b';
